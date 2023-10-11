@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99823021-8fa0-48c4-a146-cd95cde48129" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AlertButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/IFrameHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Open3Website.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/getTextValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AlertButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/IFrameHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/Open3Website.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/getTextValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/DisplayedAndEnabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/DisplayedAndEnabled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Open3urlWithJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Open3urlWithJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/DisplayedAndEnabled.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/DisplayedAndEnabled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Open3urlWithJunit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/Open3urlWithJunit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/RadioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/RadioButton.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OmA45D882rri7LfW0e1bOjVqUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.AlertButton">
+    <configuration name="OpenUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OpenUrl" />
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AlertButton" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayedAndEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.DisplayedAndEnabled" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayedAndEnabled.testEnableDisable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.DisplayedAndEnabled" />
+      <option name="METHOD_NAME" value="testEnableDisable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Open3urlWithJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Open3urlWithJunit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlertButton" />
+        <item itemvalue="JUnit.DisplayedAndEnabled.testEnableDisable" />
+        <item itemvalue="JUnit.DisplayedAndEnabled" />
+        <item itemvalue="JUnit.Open3urlWithJunit" />
+        <item itemvalue="Application.OpenUrl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99823021-8fa0-48c4-a146-cd95cde48129" name="Changes" comment="" />
+      <created>1682155199903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682155199903</updated>
+    </task>
+    <servers />
+  </component>
+</project>

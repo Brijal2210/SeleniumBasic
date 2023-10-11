@@ -9,8 +9,8 @@ public class OpenUrl {
 
     //Requirement- Let's Open 3 different websites
     public static void main(String[] args) throws InterruptedException {
-        WebDriverManager.chromedriver().setup();
-        WebDriver driver = new ChromeDriver();
+        WebDriverManager.chromedriver().setup();  //setup the driver
+        WebDriver driver = new ChromeDriver();    //create a new driver
 
         driver.manage().window().maximize();
         driver.get("https://demo.nopcommerce.com/");

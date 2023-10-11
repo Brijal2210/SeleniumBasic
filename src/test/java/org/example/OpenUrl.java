@@ -24,8 +24,8 @@ public class OpenUrl {
         driver.get("https://next.co.uk/");
 
 
-        driver.manage().window().maximize();
-        driver.get("https://diy.com/");
+       // driver.manage().window().maximize();
+        //driver.get("https://diy.com/");
 
 
         driver.close();

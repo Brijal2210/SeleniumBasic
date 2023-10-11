@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99823021-8fa0-48c4-a146-cd95cde48129" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AlertButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/IFrameHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Open3Website.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/getTextValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AlertButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/IFrameHandle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/Open3Website.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/getTextValidation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/DisplayedAndEnabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/DisplayedAndEnabled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Open3urlWithJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Open3urlWithJunit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RadioButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/RadioButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/DisplayedAndEnabled.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/DisplayedAndEnabled.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Open3urlWithJunit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/Open3urlWithJunit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/RadioButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/RadioButton.class" afterDir="false" />
+    <list default="true" id="99823021-8fa0-48c4-a146-cd95cde48129" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f04162ec-84a0-4acf-964c-42eb52d4aa91" />
+        <option name="url" value="https://github.com/Brijal2210/SeleniumBasic.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/OpenUrl.java" root0="SKIP_HIGHLIGHTING" />
@@ -162,6 +160,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682155199903</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1697027295867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697027295867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
